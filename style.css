@@ -1,0 +1,53 @@
+#title
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-style: italic;
+    color: rgb(0, 255, 13);
+}
+#title2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-style: italic;
+    color: rgb(0, 255, 13);
+}
+body
+{
+    background-color: green;
+    font-family: 'La Belle Aurore', cursive;
+    color: white;
+}
+.header_div
+{
+     color: rgb(255, 0, 0);
+     background-color: green;
+}
+.header_div p
+{
+   color: gray;
+   letter-spacing: 2px;
+   font-size: 20px;
+   font-weight: bold;
+   font-family: 'Roboto', sans-serif ;
+}
+.main_div button
+{
+   letter-spacing: 3px;
+   margin-top: 30px;
+   width: 130px;
+   font-family: 'Roboto', sans-serif ;
+   font-weight: bolder;
+}
+.copy_right_footer
+{
+    background-color: white;
+    color: gray;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size:18;
+    line-height: 1;
+}
